@@ -1,0 +1,11 @@
+{
+    "app_name": "MyApp",
+    "version": "1.0",
+    "settings": {
+        "debug": false,
+        "max_connections": 100,
+        "timeout_seconds": 30,
+        "log_file": "/var/log/myapp.log"
+    },
+    "allowed_hosts": ["localhost", "127.0.0.1"]
+}
